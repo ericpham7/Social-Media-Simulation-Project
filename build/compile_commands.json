@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ericpham/Documents/GitHub/SocialMediaProj/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++2b -arch arm64 -o CMakeFiles/socialNetworkSim.dir/main.cpp.o -c /Users/ericpham/Documents/GitHub/SocialMediaProj/main.cpp",
+  "file": "/Users/ericpham/Documents/GitHub/SocialMediaProj/main.cpp",
+  "output": "/Users/ericpham/Documents/GitHub/SocialMediaProj/build/CMakeFiles/socialNetworkSim.dir/main.cpp.o"
+}
+]

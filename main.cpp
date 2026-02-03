@@ -12,7 +12,7 @@ private:
     vector<User*>* friends; // list of friends (connections)
     
 public:
-    User() : id(0), name(""), friends(new vector<User*>()) {} // Default constructor
+    User() : id(0), name(""), friends(new vector<User*>()) {} // Default constructor  
     User(int userId, string userName) {  id = userId; name = userName; } // Constructor
     int getIdOfUser() const{ return id; }
     string getNameOfUser() const { return name; }

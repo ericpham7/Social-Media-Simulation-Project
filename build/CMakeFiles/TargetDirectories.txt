@@ -1,0 +1,3 @@
+/Users/ericpham/Documents/GitHub/SocialMediaProj/build/CMakeFiles/socialNetworkSim.dir
+/Users/ericpham/Documents/GitHub/SocialMediaProj/build/CMakeFiles/edit_cache.dir
+/Users/ericpham/Documents/GitHub/SocialMediaProj/build/CMakeFiles/rebuild_cache.dir
